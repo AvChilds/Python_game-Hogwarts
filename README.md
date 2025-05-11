@@ -2,8 +2,6 @@
 
 > A beginner Python game using the magic of APIs!
 
-![Wizard Banner](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
-
 ---
 
 ## 🪄 About This Spellbinding Project
@@ -45,7 +43,7 @@ Once you enter the game:
 
 ## 💡 Inspiration
 
-This game was part of my journey through **Code First Girls** courses, where I began my adventure into Python programming. 🧠🌟
+This game was part of my journey through my degree course, where I began my adventure into Python programming. 🧠🌟
 
 ---
 
