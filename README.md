@@ -1,2 +1,2 @@
-# Python_game-Wizarding_World_Of_Hogwards-
+# Python game: The Wizarding World Of Hogwart
 Short python programming project using APIs
